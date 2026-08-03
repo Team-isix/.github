@@ -91,5 +91,4 @@ cd CLOSER-FE && npm install && npm run dev
 > `.env` 파일 설정 필요
 
 <br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9A96A&height=140&section=footer&text=멋쟁이사자처럼%20해커톤%20ISIX%202026&fontSize=16&fontColor=F2EFE9&fontAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=140&section=footer&text=멋쟁이사자처럼%20해커톤%20ISIX%202026&fontSize=16&fontColor=C9A96A&fontAlignY=75" />
