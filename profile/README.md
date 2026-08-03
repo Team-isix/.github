@@ -96,6 +96,6 @@ cd CLOSER-FE && npm install && npm run dev
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=400&size=15&duration=3000&pause=1000&color=8C8880&background=0D0D0F&center=true&vCenter=true&width=1200&height=70&lines=%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC+%ED%95%B4%EC%BB%A4%ED%86%A4+ISIX+2026" />
+<img src="https://raw.githubusercontent.com/Team-isix/.github/main/footer.svg" width="100%" />
 
 </div>
