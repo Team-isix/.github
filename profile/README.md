@@ -1,7 +1,6 @@
 <div align="center">
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&duration=2500&pause=900&color=C9A96A&background=0D0D0F&center=true&vCenter=true&width=1200&height=110&lines=C+L+O+S+E+R" /><br /><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=300&size=16&duration=3500&pause=1000&color=F2EFE9&background=0D0D0F&center=true&vCenter=true&width=1200&height=60&lines=%EA%B0%80%EC%9E%A5+%EC%99%84%EB%B2%BD%ED%95%9C+%EB%AA%85%ED%92%88%EC%9D%84+%EA%B0%80%EC%9E%A5+%EA%B0%80%EA%B9%8C%EC%9D%B4%2C+%EB%82%B4+%EB%AA%B8+%EC%9C%84%EC%9D%98+3D+%EA%B0%80%EC%83%81+%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90" />
+<img src="https://raw.githubusercontent.com/Team-isix/.github/main/closer-header-shimmer.svg" width="100%" />
 </div>
 
 </div>
