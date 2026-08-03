@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align="center" width="120"><br/><br/><br/>구나영<br/><br/></td>
-    <td align="center" width="120"><br/><br/><br/>김민호<br/><br/></td>
+    <td align="center" width="120"><a href="https://github.com/copepb"><img src="https://github.com/copepb.png" width="100"/><br/>김민호</a></td>
     <td align="center" width="120"><a href="https://github.com/ryudayeong"><img src="https://github.com/ryudayeong.png" width="100"/><br/>류다영</a></td>
     <td align="center" width="120"><br/><br/><br/>성현서<br/><br/></td>
     <td align="center" width="120"><a href="https://github.com/ckrhkdwls"><img src="https://github.com/ckrhkdwls.png" width="100"/><br/>차광진</a></td>
