@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <img src="https://github.com/ckrhkdwls.png" width="80" /><br />
-      <a href="https://github.com/ckrhkdwls">김주형</a>
+      <a href="https://github.com/ckrhkdwls">차광진</a>
     </td>
     <td align="center">
       <img src="https://github.com/ghost.png" width="80" /><br />
