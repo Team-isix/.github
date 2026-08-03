@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Team-isix/.github/main/banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Team-isix/.github/main/banner-closr-white.svg" width="100%" />
 
 </div>
 
