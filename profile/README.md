@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Team-isix/.github/main/closer-header-shimmer.svg" width="100%" />
-</div>
-
-</div>
+<img src="https://raw.githubusercontent.com/Team-isix/.github/main/banner.svg" width="100%" />
 
 </div>
 
