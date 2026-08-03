@@ -9,22 +9,6 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/ckrhkdwls.png" width="80" /><br />
-      <a href="https://github.com/ckrhkdwls">차광진</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/ghost.png" width="80" /><br />
-      <sub>류다영</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/ghost.png" width="80" /><br />
-      <sub>황연준</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/ghost.png" width="80" /><br />
-      <sub>차광진</sub>
-    </td>
-    <td align="center">
       <img src="https://github.com/ghost.png" width="80" /><br />
       <sub>구나영</sub>
     </td>
@@ -34,7 +18,19 @@
     </td>
     <td align="center">
       <img src="https://github.com/ghost.png" width="80" /><br />
+      <sub>류다영</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ghost.png" width="80" /><br />
       <sub>성현서</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ckrhkdwls.png" width="80" /><br />
+      <a href="https://github.com/ckrhkdwls">차광진</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ghost.png" width="80" /><br />
+      <sub>황연준</sub>
     </td>
   </tr>
 </table>
