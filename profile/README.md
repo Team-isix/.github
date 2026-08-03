@@ -8,36 +8,20 @@
 
 ## 👥 팀원 소개
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/ghost.png" width="80" /><br />
-      <sub>구나영</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/ghost.png" width="80" /><br />
-      <sub>김민호</sub>
-    </td>
-   <td align="center">
-      <img src="https://github.com/ryudayeong.png" width="80" /><br />
-      <a href="https://github.com/ryudayeong">류다영</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/ghost.png" width="80" /><br />
-      <sub>성현서</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/ckrhkdwls.png" width="80" /><br />
-      <a href="https://github.com/ckrhkdwls">차광진</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/ghost.png" width="80" /><br />
-      <sub>황연준</sub>
-    </td>
+    <td align="center" width="120"><br/><br/><br/>구나영<br/><br/></td>
+    <td align="center" width="120"><br/><br/><br/>김민호<br/><br/></td>
+    <td align="center" width="120"><a href="https://github.com/ryudayeong"><img src="https://github.com/ryudayeong.png" width="100"/><br/>류다영</a></td>
+    <td align="center" width="120"><br/><br/><br/>성현서<br/><br/></td>
+    <td align="center" width="120"><a href="https://github.com/ckrhkdwls"><img src="https://github.com/ckrhkdwls.png" width="100"/><br/>차광진</a></td>
+    <td align="center" width="120"><br/><br/><br/>황연준<br/><br/></td>
   </tr>
 </table>
 
-<br />
+</div>
 
 ## 🎯 프로젝트 소개
 
@@ -96,6 +80,4 @@ cd CLOSER-FE && npm install && npm run dev
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Team-isix/.github/main/footer.svg" width="100%" />
-
-</div>
+<img
