@@ -1,6 +1,12 @@
-# .github
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=200&section=header&text=CLOSER&fontSize=70&fontColor=C9A96A&fontAlignY=35&desc=가장%20완벽한%20명품을%20가장%20가까이&descSize=18&descAlignY=55&animation=fadeIn" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&duration=2500&pause=900&color=C9A96A&background=0D0D0F&center=true&vCenter=true&width=1200&height=110&lines=C+L+O+S+E+R" /><br /><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=300&size=16&duration=3500&pause=1000&color=F2EFE9&background=0D0D0F&center=true&vCenter=true&width=1200&height=60&lines=%EA%B0%80%EC%9E%A5+%EC%99%84%EB%B2%BD%ED%95%9C+%EB%AA%85%ED%92%88%EC%9D%84+%EA%B0%80%EC%9E%A5+%EA%B0%80%EA%B9%8C%EC%9D%B4%2C+%EB%82%B4+%EB%AA%B8+%EC%9C%84%EC%9D%98+3D+%EA%B0%80%EC%83%81+%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90" />
+</div>
+
+</div>
+
+</div>
 
 <br />
 
@@ -16,9 +22,9 @@
       <img src="https://github.com/ghost.png" width="80" /><br />
       <sub>김민호</sub>
     </td>
-    <td align="center">
-      <img src="https://github.com/ghost.png" width="80" /><br />
-      <sub>류다영</sub>
+   <td align="center">
+      <img src="https://github.com/ryudayeong.png" width="80" /><br />
+      <a href="https://github.com/ryudayeong">류다영</a>
     </td>
     <td align="center">
       <img src="https://github.com/ghost.png" width="80" /><br />
@@ -91,4 +97,9 @@ cd CLOSER-FE && npm install && npm run dev
 > `.env` 파일 설정 필요
 
 <br />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=140&section=footer&text=멋쟁이사자처럼%20해커톤%20ISIX%202026&fontSize=16&fontColor=C9A96A&fontAlignY=75" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=400&size=15&duration=3000&pause=1000&color=8C8880&background=0D0D0F&center=true&vCenter=true&width=1200&height=70&lines=%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC+%ED%95%B4%EC%BB%A4%ED%86%A4+ISIX+2026" />
+
+</div>
