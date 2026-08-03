@@ -80,4 +80,6 @@ cd CLOSER-FE && npm install && npm run dev
 
 <div align="center">
 
-<img
+<img src="https://raw.githubusercontent.com/Team-isix/.github/main/footer.svg" width="100%" />
+
+</div>
