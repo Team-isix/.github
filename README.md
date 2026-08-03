@@ -1,6 +1,6 @@
 # .github
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D0D0F,17171B&height=200&section=header&text=CLOSER&fontSize=70&fontColor=C9A96A&fontAlignY=35&desc=가장%20완벽한%20명품을%20가장%20가까이&descSize=18&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0F&height=200&section=header&text=CLOSER&fontSize=70&fontColor=C9A96A&fontAlignY=35&desc=가장%20완벽한%20명품을%20가장%20가까이&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <br />
 
